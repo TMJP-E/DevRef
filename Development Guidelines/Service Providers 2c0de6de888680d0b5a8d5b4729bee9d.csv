@@ -1,0 +1,28 @@
+﻿Name,Description,Service Area,Pricing
+Google Cloud Platform (GCP),Offers scalable public cloud infrastructure and specialized services for data analytics and containerization.,"Cloud Hosting, Containers, Data Analytics",Usage
+Amazon Web Services (AWS),"Provides the largest collection of on-demand cloud computing resources, APIs, and managed services.","Cloud Hosting, IaaS, Managed Services",Usage
+Microsoft Azure,"Provides cloud services built for enterprise, hybrid, and proprietary systems integration.","Cloud Hosting, Hybrid Hosting, IaaS",Usage
+Linode (Akamai),Offers high-performance Linux virtual machines (VMs) and supporting cloud infrastructure.,"VMs, VPS",Subscription
+DigitalOcean,Provides virtual private servers (Droplets) and managed infrastructure with a focus on simplicity and ease of use.,"Deployment, Managed Services, VPS",Subscription
+Firebase,"Google's BaaS offering for web and mobile development, including NoSQL database and authentication.","BaaS, Containers, DB Provider, Deployment, PaaS",Usage
+Heroku,"A managed Platform-as-a-Service (PaaS) that handles server operations, allowing focus on code deployment.","Deployment, PaaS",Subscription
+Supabase,"An open-source Backend-as-a-Service (BaaS) that provides managed PostgreSQL, Auth, and real-time APIs.","BaaS, DB Provider, Real-Time Data",Usage
+Hostinger,"Provides budget-focused shared hosting, managed WordPress, and virtual private server packages.","Static Hosting, VPS",Subscription
+GitHub Pages,A static site hosting service integrated directly with Git repositories for simple web publishing.,"Front-End Hosting, Static Hosting",Subscription
+Netlify,"A platform for static sites and serverless functions, featuring automatic build and deployment from Git.","Serverless Functions, Static Hosting",Usage
+Infinityfree,"A provider offering completely free, basic shared web hosting with support for PHP and MySQL.","Back-End Hosting, Front-End Hosting",Usage
+Vercel,Offers high-performance Linux virtual machines (VMs) and supporting cloud infrastructure.,"Front-End Hosting, Static Hosting",Usage
+Redis Cloud,The managed service for the high-performance Redis Key-Value and in-memory data structure store.,DB Provider,Usage
+Neon,A serverless PostgreSQL solution designed for cost-efficiency by separating storage and compute.,"BaaS, DB Provider",Usage
+PlanetScale,"A serverless MySQL platform offering sharding, scalability, and non-blocking database branching.","BaaS, DB Provider",Subscription
+MongoDB Atlas,The official cloud service for managed MongoDB (NoSQL) document databases.,DB Provider,Usage
+Render,"A unified cloud platform for hosting web services, databases, and Docker containers with automatic scaling.",DB Provider,Subscription
+Sentry,Real-time error tracking and performance monitoring for capturing and analyzing application exceptions and crashes.,API,Volume
+Datadog,"A unified platform for monitoring, logging, and performance metrics across the entire application stack.",API,Subscription
+Algolia,"An API that provides instant, typo-tolerant search-as-a-service for applications.",API,Volume
+Google Maps Platform,"Provides APIs for integrating detailed maps, location data, and routing services into applications.",API,Usage
+Auth0,An identity management platform that provides authentication and authorization services via API.,API,Volume
+Stripe,"A platform for developers to accept and manage online payments, subscriptions, and payouts.",API,Transaction
+SendGrid,An API specializing in the reliable delivery of transactional and marketing emails.,API,Volume
+Twilio,"Provides APIs for programmatic communication including SMS, Voice, and Video services.",API,Usage
+EAS Hosting,"A service integrated with Expo Application Services for deploying web projects, API routes, and server functions to the edge network (Cloudflare Workers).","API, Front-End Hosting",Usage

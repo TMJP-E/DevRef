@@ -1,0 +1,15 @@
+﻿Name,Relevance,Type
+Use Case,High,Behavioral
+Class,High,Structural
+Sequence,High,Behavioral
+Activity,Medium,Behavioral
+Communication,Medium,Behavioral
+Timing,Low,Behavioral
+State Machine,Low,Behavioral
+Profile,Low,Structural
+Interaction Overview,Medium,Behavioral
+Component,High,Structural
+Composite Structure,Medium,Structural
+Deployment,Low,Structural
+Package,Medium,Structural
+Object,Medium,Structural

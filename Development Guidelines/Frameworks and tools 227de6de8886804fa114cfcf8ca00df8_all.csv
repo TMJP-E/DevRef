@@ -1,0 +1,141 @@
+﻿Technology,Description,Language,Platform,Usage
+React.js,Web user interfaces with states.,"CSS, HTML, JavaScript",Web App,Front-End
+Vue.js,Progressive web user interfaces with reactivity.,"CSS, HTML, JavaScript",Web App,Front-End
+Angular,Single Page Application,"CSS, HTML, JavaScript",Web App,Front-End
+Svelte,Web user interfaces reactivity.,"CSS, HTML, JavaScript",Web App,Front-End
+Next.js,Simple React complete applications with server side processing.,"CSS, HTML, JavaScript","Server, Web App",Full Stack
+Nuxt,Simple Vue complete applications with server side processing.,"CSS, HTML, JavaScript","Server, Web App",Full Stack
+SolidJS,Optimized web user interfaces.,"CSS, HTML, JavaScript",Web App,Front-End
+Express,Minimalist REST API server.,JavaScript,RESTful,Back-End
+Nest JS,Flexible enterprise grade server applications.,JavaScript,On Top Server,Back-End
+Fastify,Optimized REST API server,JavaScript,RESTful,Back-End
+Django,"Complete Python web applications with models, views and templates.","CSS, HTML, Python","Server, Templates, Web App",Full Stack
+Django REST Framework,Complete Python web toolkit for JSON APIs.,Python,RESTful,Back-End
+Flask,Simple Python web applications and server side processing.,Python,WSGI,Back-End
+Jinja2,Templating engine with embedded content.,"CSS, HTML, Python",Templates,Front-End
+FastAPI,High performance asynchronous REST APIs.,Python,ASGI,Back-End
+Spring,Full ecosystem of tools and frameworks for a myriad of purposes.,"Groovy, Java, Kotlin",Multiple,Ecosystem
+Thymeleaf,Server side natural templating engine.,"CSS, HTML, Java",Templates,Front-End
+Apache FreeMarker,Presentation layer templating engine.,"CSS, FTL, HTML, Java",Templates,Front-End
+Micronaut,"Servers, services and tools with modular efficiency.","Groovy, Java, Kotlin","Server, System",Environment
+Quarkus,Kubernetes-native cloud-first containerized enviroments.,"Groovy, Java, Kotlin","On Top Server, Server, System",Back-End
+SvelteKit,Simple Svelte complete applications with server side processing.,"CSS, HTML, JavaScript","Server, Web App",Full Stack
+Analog,Simple Angular complete applications with server side processing.,"CSS, HTML, JavaScript","Server, Web App",Full Stack
+ASP.NET Core,Web framework with various client and server side alternatives.,C#,"Server, Templates, Web App",Full Stack
+Laravel,MVC web framework.,"HTML, PHP",Server,Back-End
+Phoenix,MVC web framework with SPA UI SSR.,Elixir,"Server, Templates, Web App",Full Stack
+Flame,Flutter based 2D modular game engine.,Dart,"Desktop, Game, Native, Web App",Engine
+Ruby on Rails,MVC web framework.,"CSS, HTML, JavaScript, Ruby","Server, Web App",Full Stack
+Godot,Open source 2D and 3D game engine.,"C#, GDScript","Desktop, Game, Native, Web App",Engine
+Unity,Multi-purpose game engine.,C#,"Desktop, Game, Native, Web App",Engine
+Unreal Engine,Epic games 3D production and game engine.,"Blueprints, C++, Python","Desktop, Game, Native",Engine
+React Native,"Facebook’s cross platform framework for native apps, possible desktop integration.",JavaScript,"Hybrid, Native, Web App",Front-End
+Flutter,Google’s open source cross platform framework for native apps.,Dart,"Desktop, Native, Web App",Front-End
+Livewire,Dynamic  reactivity web applications built on top of Blade and Laravel,"CSS, HTML, PHP","Server, Web App",Full Stack
+Ionic,"WebView integrated native apps using React, Angular or Vue, with possible cross platform support.","CSS, HTML, JavaScript","Hybrid, Native",Front-End
+Android SDK,Native mobile android apps development.,"Java, Kotlin, XML",Native,Front-End
+Inertia.js,Flexible multi-platform hybrid SPAs bridging front end and back end.,"JavaScript, Multiple","Hybrid, Server, Web App",Full Stack
+Hotwire,SSR Web UI templating for SPA reactivity.,"HTML, Ruby",Templates,Front-End
+Blade,Templating engine for embedding PHP and integratable with Laravel,"CSS, HTML, PHP",Templates,Front-End
+Jetpack Compose,"Declarative UI toolkit for android applications, possible cross platform support with Compose Multiplatform.",Kotlin,"Hybrid, Native",Front-End
+.NET MAUI,Cross platform open source native and desktop apps.,C#,"Desktop, Native",Full Stack
+Electron,Embedded native desktop applications using common JS libraries and frameworks.,"CSS, HTML, JavaScript","Desktop, Hybrid",Front-End
+Tauri,Embedded Rust binaries with web stack usage for desktop apps.,"CSS, HTML, JavaScript, Kotlin, Rust",Desktop,Full Stack
+Avalonia UI,Open source cross platform UI framework with WPF for desktop and embedded apps.,C#,Desktop,Full Stack
+Tkinter,Tcl/Tk based desktop GUI toolkit for msall utilities.,Python,Desktop,Front-End
+Firebase,BaaS with lots of different tools and solutions in a vast amount of categories.,Multiple,"Hybrid, Multiple, On Top Server, System, Web App",Environment
+Supabase,Open source BaaS alternative to Firebase with easier integrations and tooling.,"JavaScript, SQL","Hybrid, Multiple, On Top Server, System, Web App",Environment
+MySQL,Relational database management system.,SQL,System,Database
+MariaDB,Open source improved relational database management system.,SQL,System,Database
+SQLite,Ligthweight embedded database.,SQL,Native,Database
+MongoDB,NoSQL document database.,JSON,System,Database
+SQL Server,Enterpirse relational database management system.,SQL,Server,Database
+PostgreSQL,Open source customtyping and object relational database management system.,SQL,"Server, System",Database
+DynamoDB,Serverless NoSQL AWS database.,JSON,"Hybrid, System",Database
+Neo4j,Graph database optimized for complex relationships.,Cypher,"Hybrid, System",Database
+Redis,In memory key value srote offering speed and simplicity.,Redis CLI,System,Database
+Cassandra,Distributed NoSQL database designed optimized for heavy workloads.,CQL,System,Database
+InfluxDB,Time series database ideal for metris and monitoring.,Flux,System,Database
+Tensorflow,Google’s open source ML training toolik with deployment at scale.,"JavaScript, Python","Desktop, Multiple, Native, Server, System",Engine
+PyTorch,"Facebook’s ML framework, flexible and cross platform.",Python,"Desktop, Hybrid, Server, System",Engine
+Scikit-learn,Library for classical and simple machine learning.,Python,"Multiple, System",Engine
+OpenCV,Cross platform library for computer vision and image processing.,"C++, Java, JavaScript, Python",System,Engine
+Keras,High level neural network API for Tensorflow.,Python,"Hybrid, System",Engine
+gRPC,High performance agnostic remote procedure call framewrk with protocol buffers.,Multiple,"Hybrid, Server",Back-End
+Socket.IO,Real time bidirectional communication using WebSockets.,"JavaScript, Multiple","Hybrid, Web App",Back-End
+Remix,Simple standarized React web application framework.,"CSS, HTML, JavaScript","Server, Web App",Full Stack
+Fiber,"Fast HTTP engine, performant and quick.",Go,Server,Back-End
+Gin,APO web frameowkr with fast performance.,Go,Server,Back-End
+Beego,Enterprise application server development.,Go,"RESTful, Server",Back-End
+Rocket,"Fast, type safe, secure web application framework, ",Rust,RESTful,Back-End
+Actix Web,Micro HTTP framework designed to create web applications.,Rust,Server,Back-End
+Astro,"Island based, fully fledged, development environment integrated with Node and various front-end frameworks.","CSS, HTML, JavaScript","Server, Web App",Environment
+Vite,"Framework based, native ESM server built upon Rollup and esbuild.",JavaScript,Bundler,Front-End
+Kivy,"Cross platform GUI apps, fast, easy and codebase single.",Python,,
+Webpack,"Legacy module bundler, por packaging projects into optimized files for a browser.",JavaScript,Bundler,Front-End
+Parcel,Build tool designed for a zero-configuration experience.,JavaScript,Bundler,Front-End
+esbuild,"Quick bundler, minifier, and transpiler. Often used as a low-level, high-speed component inside other build tools",JavaScript,Bundler,Front-End
+Turbopack,High-performance bundler developed by the Vercel team.,JavaScript,Bundler,Front-End
+Rollup,"Specialized module bundler for JavaScript, primarily distinguished by its focus on creating highly optimized, efficient, and small output bundles,",JavaScript,Bundler,Front-End
+Babel,JavaScript Transpiler.,JavaScript,Bundler,Front-End
+Grails,A powerful Groovy-based web application framework for the JVM built on top of Spring Boot.,Groovy,"On Top Server, RESTful, Server",Back-End
+Node.js,"Free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",JavaScript,Server,Back-End
+oak,"oak is a middleware framework for handling HTTP requests across Deno, Node.js, Bun and Cloudflare Workers.",JavaScript,Server,Back-End
+Bun,"Bun is a fast, incrementally adoptable all-in-one JavaScript, TypeScript & JSX toolkit. ",JavaScript,"Server, Web App",Environment
+Deno,"Open source runtime for JavaScript, TypeScript, and WebAssembly projects.",JavaScript,System,Back-End
+Hono,"Small, simple, and fast web framework built on Web Standards.",JavaScript,Server,Back-End
+Docusaurus,Web framework for building documentation sites.,"CSS, HTML, JavaScript, Markdown",Web App,Front-End
+Lume,Static Site Generator for Deno.,"CSS, HTML, JavaScript",Web App,Front-End
+Fresh,"Fresh is a small, fast and extensible full stack web framework built on Web Standards.","CSS, HTML, JavaScript",Web App,Front-End
+PyJSX,Module for writing JSX code within Python.,"HTML, JavaScript, Python",Web App,Front-End
+Qwik,New kind of web framework that can deliver instant loading web applications at any size or complexity.,"CSS, HTML, JavaScript",Web App,Front-End
+Qt,It’s a comprehensive set of libraries and APIs for flexibly combining powerful user interface components and time-saving core functionality.,QML,"Hybrid, Multiple, System",Ecosystem
+Marko,"Re-imagines HTML as a language for building dynamic and reactive user interfaces. ","CSS, HTML, JavaScript",Web App,Front-End
+Selenium,"Primarily it is for automating web applications for testing purposes, but is certainly not limited to just that. Boring web-based administration tasks can (and should) also be automated as well.","C#, Java, JavaScript, Python, Ruby","Testing, Web App",Engine
+Cypress,"Fast, modern test automation framework for end-to-end testing. It’s known for its developer-friendly setup, fast execution, and real-time browser interaction.",JavaScript,"Testing, Web App",Engine
+Appium,"Cross-platform mobile testing framework that supports native, hybrid, and mobile web applications. ","C#, Java, JavaScript, Python, Ruby","Hybrid, Native, Testing, Web App",Engine
+Katalon Studio,"All-in-one test automation solution with support for web, API, mobile, and desktop applications.","Groovy, Java, Kotlin","Native, RESTful, Server, Testing, Web App",Engine
+JUnit,Unit-testing framework for Java applications.,Java,Testing,Engine
+NUnit,Unit-testing framework for .NET applications.,C#,Testing,Engine
+Robot Framework,Keyword-driven test automation framework used for acceptance testing and robotic process automation (RPA).,"Java, Python",Testing,Engine
+Cucumber,"Behavior Driven Development (BDD) framework that enables automated acceptance testing. It allows writing test cases in natural language, making it easier to understand the tests.","Java, JavaScript, Kotlin, Ruby",Testing,Engine
+Mocha,Feature-rich JavaScript testing framework for Node.js applications.,JavaScript,"Server, Testing",Engine
+Protractor,"End-to-end testing framework specifically designed for Angular and AngularJS applications. ",JavaScript,"Testing, Web App",Engine
+Playwright,"Modern, fast automation framework for testing web applications. ","C#, JavaScript, Python","Testing, Web App",Engine
+Serentiy BDD,"Supports BDD and is especially useful for acceptance testing, providing clear and detailed reports.",Java,Testing,Engine
+Fitnesse,Web-based test framework designed for acceptance testing. It allows non-technical users to write their own tests using a wiki-style interface.,"C#, Java","Testing, Web App",Engine
+XCTest,Apple’s native testing framework for iOS and macOS applications.,"Objective-C, Swift","System, Testing",Engine
+Espresso,"UI testing framework for Android applications, allowing developers to test the user interface directly within the app.","Java, Kotlin","Native, Testing",Engine
+TestNG,"Inspired by JUnit but with more powerful features such as parallel execution, data-driven testing, and flexible configuration. ",Java,Testing,Engine
+JBehave,"BDD framework for Java, designed to support behavior-driven development. It allows users to write tests in a natural language format.",Java,Testing,Engine
+Lagom,Allows for building reactive microservices and integrates well with test automation frameworks for testing services and APIs.,"Java, Scala","Hybrid, Server, Testing, Web App",Engine
+WireMock,Tool for simulating HTTP-based APIs for testing purposes. It is primarily used to create mock APIs.,Java,Testing,Engine
+PyTest,"Unit, integration, and functional testing in Python.",Python,Testing,Engine
+Vwo Test,"Visual testing platform for web applications, focusing on automating website testing without the need for coding. ",,"Testing, Web App",Engine
+Selendroid,"Mobile test automation framework for Android, enabling automation of hybrid and native apps. It’s compatible with Selenium and supports both real devices and emulators.","Java, Ruby","Native, Testing",Engine
+Telerik Test Studio,"Comprehensive test automation tool that supports web, desktop, and mobile testing. It features an intuitive UI, automated test creation, and integration with CI/CD pipelines.","C#, JavaScript","Hybrid, Native, Testing, Web App",Engine
+Calabash,"Cross-platform test automation framework for mobile apps, allowing teams to write tests in Cucumber.",Ruby,"Hybrid, Testing",Engine
+Concordion,Lightweight framework designed for BDD in Java. It allows you to write acceptance tests in HTML,"HTML, Java",Testing,Engine
+Minitest,Unit testing in Ruby.,Ruby,Testing,Engine
+Detox,"End-to-end testing framework for React Native applications, focusing on mobile UI testing.",JavaScript,Testing,Engine
+TestCafe,Node.js-based testing framework that supports browser testing without requiring WebDriver.,JavaScript,Testing,Engine
+Puppeteer,Puppeteer is a JavaScript library which provides a high-level API to control Chrome or Firefox over the DevTools Protocol or WebDriver BiDi.,JavaScript,"Testing, Web App",Engine
+WebDriverIO,WebdriverIO is a progressive automation framework built to automate modern web and mobile applications.,JavaScript,"Native, Testing, Web App",Engine
+Jest,Jest is a JavaScript testing framework designed to ensure correctness of any JavaScript codebase.,JavaScript,Testing,Engine
+Spock,"Spock is a testing and specification framework for Java and Groovy applications. ","Groovy, Java",Testing,Engine
+Maestro,End-to-end testing for Mobile and Web apps.,YAML,"Multiple, Native, Testing, Web App",Engine
+Gauge," Free and open source framework for writing and running acceptance tests. ","C#, Java, JavaScript, Markdown, Python, Ruby",Testing,Engine
+Nightwatch.js,End to end testing of web apps on desktop & mobile browsers,JavaScript,"Testing, Web App",Engine
+Selenide,Framework for test automation powered by Selenium WebDriver.,Java,"Testing, Web App",Engine
+Takio,"Free and open source Node.js library with a simple API to automate Chromium based browsers (Chrome, Microsoft Edge, Opera) and Firefox.",JavaScript,"Testing, Web App",Engine
+PHPUnit,Programmer-oriented testing framework for PHP. It is an instance of the xUnit architecture for unit testing frameworks.,PHP,Testing,Engine
+XCUITest,"Appium driver for automating iOS applications on iOS, iPadOS, and tvOS.","Objective-C, Swift","System, Testing",Engine
+Geb,"Brings together the power of WebDriver, the elegance of jQuery content selection, the robustness of Page Object modelling and the expressiveness of the Groovy language.",Groovy,"Testing, Web App",Engine
+QUnit,"JavaScript testing framework designed for unit and integration testing, especially for front-end applications.",JavaScript,"Testing, Web App",Engine
+RSPec,Behaviour Driven Development for Ruby.,Ruby,Testing,Engine
+Reqnroll,Open-source Cucumber-style BDD test automation framework for .NET.,,Testing,Engine
+MSTest,"Microsoft Testing Framework, is a test framework for .NET applications.",C#,"Hybrid, Testing",Engine
+Jasmine,"Framework for testing JavaScript code. It does not depend on any other JavaScript frameworks. It runs in browsers and in Node.js. ",JavaScript,Testing,Engine
+Behave,"Behavior-driven development, Python style.",Python,Testing,Engine
+Alpine,"Rugged, minimal tool for composing behavior directly in your markup.","CSS, HTML, JavaScript",Web App,Front-End
+Inferno,"Inferno is an insanely fast, React-like library for building high-performance user interfaces on both the client and server.","CSS, HTML, JavaScript",,
