@@ -319,8 +319,6 @@ Established coding languages, frameworks, patterns, models, programs and more ar
 | **[Tauri](https://tauri.app/)** | CSS, HTML, JavaScript, Kotlin, Rust | Embedded Rust binaries with web stack for desktop apps. | Full Stack | Desktop |
 | **[Avalonia UI](https://avaloniaui.net/)** | C# | Cross platform UI framework with WPF for desktop/embedded. | Full Stack | Desktop |
 | **[Qt](https://www.qt.io/)** | QML | Libraries and APIs for powerful UI and core functionality. | Ecosystem | Hybrid, Multiple, System |
-| **[Firebase](https://firebase.google.com/)** | Multiple | BaaS with tools for various categories. | Environment | Multiple, Web App |
-| **[Supabase](https://supabase.com/)** | JavaScript, SQL | Open source BaaS alternative to Firebase. | Environment | Multiple, Web App |
 | **[MySQL](https://www.mysql.com/)** | SQL | Relational database management system. | Database | System |
 | **[MariaDB](https://mariadb.org/)** | SQL | Open source improved RDBMS. | Database | System |
 | **[SQLite](https://www.sqlite.org/)** | SQL | Lightweight embedded database. | Database | Native |
@@ -348,7 +346,6 @@ Established coding languages, frameworks, patterns, models, programs and more ar
 | **[Robot Framework](https://robotframework.org/)** | Java, Python | Keyword-driven automation for acceptance testing/RPA. | Engine | Testing |
 | **[Cucumber](https://cucumber.io/)** | Java, JavaScript, Kotlin, Ruby | BDD framework enabling tests in natural language. | Engine | Testing |
 | **[Mocha](https://mochajs.org/)** | JavaScript | Feature-rich testing framework for Node.js applications. | Engine | Server, Testing |
-| **[Protractor](https://www.protractortest.org/)** | JavaScript | End-to-end testing designed for Angular apps. | Engine | Testing |
 | **[Playwright](https://playwright.dev/)** | C#, JavaScript, Python | Modern, fast automation for web applications. | Engine | Testing |
 | **[Fitnesse](http://fitnesse.org/)** | C#, Java | Web-based wiki-style framework for acceptance testing. | Engine | Testing |
 | **[XCTest](https://developer.apple.com/documentation/xctest)** | Objective-C, Swift | Apple’s native testing for iOS and macOS. | Engine | System, Testing |
@@ -360,7 +357,6 @@ Established coding languages, frameworks, patterns, models, programs and more ar
 | **[PyTest](https://docs.pytest.org/)** | Python | Unit, integration, and functional testing in Python. | Engine | Testing |
 | **[Vwo Test](https://vwo.com/testing/)** | | Visual testing platform focusing on no-code. | Engine | Testing |
 | **[Telerik Test Studio](https://www.telerik.com/teststudio)** | C#, JavaScript | Automation tool for web, desktop, and mobile. | Engine | Testing |
-| **[Calabash](https://github.com/calabash/calabash-android)** | Ruby | Cross-platform mobile automation with Cucumber. | Engine | Testing |
 | **[Concordion](https://concordion.org/)** | HTML, Java | Lightweight framework for BDD in Java. | Engine | Testing |
 | **[Minitest](https://docs.seattlerb.org/minitest/)** | Ruby | Unit testing in Ruby. | Engine | Testing |
 | **[Detox](https://wix.github.io/Detox/)** | JavaScript | End-to-end mobile UI testing for React Native. | Engine | Testing |
@@ -383,6 +379,7 @@ Established coding languages, frameworks, patterns, models, programs and more ar
 | **[Reqnroll](https://reqnroll.net/)** | | Cucumber-style BDD for .NET. | Engine | Testing |
 | **[MSTest](https://github.com/microsoft/testfx)** | C# | Microsoft Testing Framework for .NET. | Engine | Testing |
 | **[Behave](https://behave.readthedocs.io/)** | Python | Behavior-driven development, Python style. | Engine | Testing |
+| **[JMeter](https://jmeter.apache.org/)** | Java | Performance, load, and functional testing for web services. | Engine | Testing, Web App |
 
 1. *Ecosystem* - Has features for almost all requirements, from database management, web applications, data, sessions and security, cloud services, micro services, endpoints APIs and more.
 2. *Environment* - Has features for a great variety of requirements, APIs, services, functions, macros and tools, micro services and more.
@@ -438,3 +435,25 @@ Established coding languages, frameworks, patterns, models, programs and more ar
 | **[Alibaba Cloud](https://www.alibabacloud.com/)** | Leading cloud computing company providing a comprehensive suite of global cloud services. | Usage | Cloud Hosting, IaaS, Managed Services |
 | **[Oracle Cloud](https://www.oracle.com/cloud/)** | Generation 2 enterprise cloud offering integrated IaaS, PaaS, and managed database services. | Usage | Cloud Hosting, IaaS, DB Provider |
 | **[Apollo](https://www.apollographql.com/pricing)** | API Orchestration Platform for AI Agents, Web, and Mobile Apps. | Usage | API |
+| **[SonarQube](https://www.sonarqube.org/)** | Self-managed tool for continuous inspection of code quality and security analysis. | Subscription | Managed Services, Deployment |
+| **[ArgoCD](https://argoproj.github.io/cd/)** | Declarative GitOps tool for automating the deployment of applications to Kubernetes. | Usage | Deployment, Orchestration |
+| **[Kubernetes](https://kubernetes.io/)** | Open-source system for automating deployment, scaling, and management of containerized apps. | Usage | Containers, Orchestration |
+| **[Helm](https://helm.sh/)** | A package manager that simplifies the definition, installation, and upgrade of K8s apps. | Usage | Managed Services, Orchestration |
+| **[Ansible](https://www.ansible.com/)** | IT automation tool that automates configuration management and application deployment. | Subscription | Deployment, Managed Services |
+| **[Terraform](https://www.terraform.io/)** | Tool for building, changing, and versioning cloud infrastructure using configuration files. | Usage | IaC, Deployment |
+| **[Grafana](https://grafana.com/)** | Multi-platform analytics and interactive visualization web application for metrics and logs. | Subscription | Observability |
+| **[Prometheus](https://prometheus.io/)** | Systems monitoring and alerting toolkit with a multi-dimensional data model. | Usage | Observability |
+| **[Elastic Stack](https://www.elastic.co/)** | Set of tools used for search, analysis, and visualization of data in real-time. | Usage | Observability, Data Analytics |
+| **[New Relic](https://newrelic.com/)** | Cloud-based software that helps monitor the performance of web apps and infrastructure. | Usage | API, Observability |
+| **[Jenkins](https://www.jenkins.io/)** | Open-source automation server used to automate the building, testing, and delivery of code. | Usage | CI/CD, Deployment |
+| **[GitLab](https://about.gitlab.com/)** | Web-based Git repository manager providing wiki, issue-tracking, and CI/CD pipeline features. | Subscription | CI/CD, Deployment |
+| **[Docker](https://www.docker.com/)** | Set of platform as a service products that use OS-level virtualization to deliver software in containers. | Subscription | Containers, Deployment |
+| **[Podman](https://podman.io/)** | A daemonless container engine for developing, managing, and running OCI containers. | Usage | Containers, Deployment |
+| **[Vagrant](https://www.vagrantup.com/)** | A tool for building and managing virtual machine environments in a single workflow. | Usage | Virtualization, Managed Services |
+| **[Snyk](https://snyk.io/)** | Developer-first platform that finds and fixes vulnerabilities in dependencies and containers. | Usage | SCA, Containers |
+| **[Trivy](https://trivy.dev/)** | A fast, comprehensive security scanner for vulnerabilities in container images and file systems. | Usage | SCA, Containers |
+| **[HashiCorp Vault](https://www.vaultproject.io/)** | Secures, stores, and tightly controls access to tokens, passwords, certificates, and API keys. | Subscription | Secrets Management |
+| **[OWASP ZAP](https://www.zaproxy.org/)** | An open-source tool that performs dynamic security testing against your running web applications. | Usage | AppSec, Testing |
+| **[Checkmarx](https://checkmarx.com/)** | Enterprise-grade static analysis tool that identifies security vulnerabilities in your source code. | Subscription | AppSec, Managed Services |
+| **[Wiz](https://www.wiz.io/)** | Cloud-native security platform that scans your entire cloud infrastructure for risks and leaks. | Subscription | Cloud Hosting, Observability |
+| **[Gitleaks](https://github.com/gitleaks/gitleaks)** | Lightweight tool used to detect and prevent hardcoded secrets like passwords and keys in Git repos. | Usage | Secrets Management |
