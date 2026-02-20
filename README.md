@@ -275,6 +275,7 @@ Established coding languages, frameworks, patterns, models, programs and more ar
 | **[Analog](https://analogjs.org/)** | CSS, HTML, JavaScript | Simple Angular complete applications with server side processing. | Full Stack | Server, Web App |
 | **[SvelteKit](https://kit.svelte.dev/)** | CSS, HTML, JavaScript | Simple Svelte complete applications with server side processing. | Full Stack | Server, Web App |
 | **[Fresh](https://fresh.deno.dev/)** | CSS, HTML, JavaScript | Small, fast and extensible full stack web framework built on Web Standards. | Front-End | Web App |
+| **[Meteor](https://docs.meteor.com/about/build-tool)** | CSS, HTML, JavaScript | A full-stack JavaScript platform for developing modern web and mobile applications. | Full Stack | Hybrid, Web App, Native |
 | **[Jinja2](https://jinja.palletsprojects.com/)** | CSS, HTML, Python | Templating engine with embedded content. | Front-End | Templates |
 | **[PyJSX](https://github.com/tomasr8/pyjsx)** | HTML, JavaScript, Python | Module for writing JSX code within Python. | Front-End | Web App |
 | **[Django](https://www.djangoproject.com/)** | CSS, HTML, Python | Complete Python web applications (models, views, templates). | Full Stack | Server, Templates, Web App |
@@ -289,7 +290,8 @@ Established coding languages, frameworks, patterns, models, programs and more ar
 | **[Quarkus](https://quarkus.io/)** | Groovy, Java, Kotlin | Kubernetes-native cloud-first containerized environments. | Back-End | On Top Server, Server, System |
 | **[ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/)** | C# | Web framework with various client and server side alternatives. | Full Stack | Server, Templates, Web App |
 | **[Blade](https://laravel.com/docs/blade)** | CSS, HTML, PHP | Templating engine for embedding PHP (Laravel). | Front-End | Templates |
-| **[Laravel](https://laravel.com/)** | HTML, PHP | MVC web framework. | Back-End | Server |
+| **[Laravel](https://laravel.com/)** | HTML, PHP | MVC web framework. Provides a complete ecosystem for web development. | Back-End | Server |
+| **[Symfony](https://symfony.com/)** | PHP | Build scalable, high-performance web applications with reusable components. | Full Stack | Server, Web App
 | **[Livewire](https://livewire.laravel.com/)** | CSS, HTML, PHP | Dynamic reactivity web apps built on Blade and Laravel. | Full Stack | Server, Web App |
 | **[Inertia.js](https://inertiajs.com/)** | JavaScript, Multiple | Multi-platform hybrid SPAs bridging front end and back end. | Full Stack | Hybrid, Server, Web App |
 | **[Hotwire](https://hotwired.dev/)** | HTML, Ruby | SSR Web UI templating for SPA reactivity. | Front-End | Templates |
@@ -298,6 +300,7 @@ Established coding languages, frameworks, patterns, models, programs and more ar
 | **[Fiber](https://gofiber.io/)** | Go | Fast HTTP engine, performant and quick. | Back-End | Server |
 | **[Gin](https://gin-gonic.com/)** | Go | API web framework with fast performance. | Back-End | Server |
 | **[Beego](https://github.com/beego/beego)** | Go | Enterprise application server development. | Back-End | RESTful, Server |
+| **[axum](https://docs.rs/axum/latest/axum/)** | Rust | Web application framework that focuses on ergonomics and modularity. | Back-End | Server |
 | **[Rocket](https://rocket.rs/)** | Rust | Fast, type safe, secure web application framework. | Back-End | RESTful |
 | **[Actix Web](https://actix.rs/)** | Rust | Micro HTTP framework for web applications. | Back-End | Server |
 | **[Unreal Engine](https://www.unrealengine.com/)** | Blueprints, C++, Python | Epic Games 3D production and game engine. | Engine | Desktop, Game, Native |
@@ -434,3 +437,4 @@ Established coding languages, frameworks, patterns, models, programs and more ar
 | **[IBM Cloud](https://www.ibm.com/cloud)** | Full-stack cloud platform including public, private, and hybrid environments with enterprise focus. | Usage | Cloud Hosting, IaaS, PaaS |
 | **[Alibaba Cloud](https://www.alibabacloud.com/)** | Leading cloud computing company providing a comprehensive suite of global cloud services. | Usage | Cloud Hosting, IaaS, Managed Services |
 | **[Oracle Cloud](https://www.oracle.com/cloud/)** | Generation 2 enterprise cloud offering integrated IaaS, PaaS, and managed database services. | Usage | Cloud Hosting, IaaS, DB Provider |
+| **[Apollo](https://www.apollographql.com/pricing)** | API Orchestration Platform for AI Agents, Web, and Mobile Apps. | Usage | API |
