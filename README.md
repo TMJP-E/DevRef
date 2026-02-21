@@ -457,3 +457,5 @@ Established coding languages, frameworks, patterns, models, programs and more ar
 | **[Checkmarx](https://checkmarx.com/)** | Enterprise-grade static analysis tool that identifies security vulnerabilities in your source code. | Subscription | AppSec, Managed Services |
 | **[Wiz](https://www.wiz.io/)** | Cloud-native security platform that scans your entire cloud infrastructure for risks and leaks. | Subscription | Cloud Hosting, Observability |
 | **[Gitleaks](https://github.com/gitleaks/gitleaks)** | Lightweight tool used to detect and prevent hardcoded secrets like passwords and keys in Git repos. | Usage | Secrets Management |
+| **[Koyeb](https://www.koyeb.com/)** | Serverless platform that allows you to deploy Docker containers, web apps, and APIs. | Usage | Back-End Hosting, Containers, PaaS |
+| **[Aiven](https://aiven.io/)** | Open-source data platform providing databases like MySQL, PostgreSQL, and Redis | Usage | DB Provider, Managed Services |
