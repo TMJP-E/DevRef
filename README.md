@@ -120,33 +120,33 @@ Established coding languages, frameworks, patterns, models, programs and more ar
 
 | Name | Platform | Pricing | Usage |
 | :--- | :--- | :--- | :--- |
-| **[Figma](https://www.figma.com/)** | Web, Windows, macOS | Free | UI/UX |
-| **[Framer](https://www.framer.com/)** | Web, Windows, macOS | Free | UI/UX |
-| **[Penpot](https://penpot.app/)** | Web | Free | UI/UX |
-| **[Mockup](https://getmockup.app/)** | macOS | Free | UI/UX |
-| **[Marvel](https://marvelapp.com/)** | Web | Free | UI/UX |
-| **[UXPin](https://www.uxpin.com/)** | Web | Free | UI/UX |
-| **[Webflow](https://webflow.com/?r=0)** | Web, Windows, macOS | Free | UI/UX |
-| **[Flowmapp](https://www.flowmapp.com/)** | Web | Free | UI/UX |
-| **[VisualSitemaps](https://visualsitemaps.com/)** | Web | Free | UI/UX |
-| **[Justinmind](https://www.justinmind.com/)** | Windows, macOS | Free | UI/UX |
-| **[StarUML](https://staruml.io/)** | Windows, macOS | Paid | Modeling |
-| [Astah](https://astah.net/downloads/) | Windows, macOS, Linux | Paid | Modeling |
-| **[JetUML](https://www.jetuml.org/)** | Windows | Free | Modeling |
-| **[Modelio](https://www.modelio.org/index.htm)** | Linux, Windows | Free | Modeling |
 | **[PlantUML](com/)** | Web | Free | Modeling |
-| **[yEd](https://www.yworks.com/products/yed)** | Linux, Windows, macOS | Free | Modeling |
-| **[draw.io](https://draw.io)** | Linux, Web, Windows, macOS | Free | Modeling |
-| **[Miro](https://miro.com/)** | Web | Free | Modeling |
 | **[Fluig](https://www.fluig.cc/home)** | Web | Free | Modeling |
 | **[Whimsical](https://whimsical.com/)** | Web | Free | Modeling |
 | **[LucidChart](https://www.lucidchart.com/pages/es)** | Web | Free | Modeling |
+| **[Miro](https://miro.com/)** | Web | Free | Modeling |
+| **[JetUML](https://www.jetuml.org/)** | Windows | Free | Modeling |
+| **[Modelio](https://www.modelio.org/index.htm)** | Linux, Windows | Free | Modeling |
+| **[yEd](https://www.yworks.com/products/yed)** | Linux, Windows, macOS | Free | Modeling |
+| **[draw.io](https://draw.io)** | Linux, Web, Windows, macOS | Free | Modeling |
+| **[StarUML](https://staruml.io/)** | Windows, macOS | Paid | Modeling |
+| **[Astah](https://astah.net/downloads/)** | Windows, macOS, Linux | Paid | Modeling |
 | **[Balsamiq](https://balsamiq.com/)** | Web | Subscription | Modeling |
-| **[Origami Studio 3](https://origami.design/)** | macOS | Free | UI/UX |
-| **Adobe XD** | Windows, macOS | Subscription | UI/UX |
+| **[Penpot](https://penpot.app/)** | Web | Free | UI/UX |
+| **[Marvel](https://marvelapp.com/)** | Web | Free | UI/UX |
+| **[UXPin](https://www.uxpin.com/)** | Web | Free | UI/UX |
+| **[Flowmapp](https://www.flowmapp.com/)** | Web | Free | UI/UX |
+| **[VisualSitemaps](https://visualsitemaps.com/)** | Web | Free | UI/UX |
 | **[Axure](https://www.axure.com/)** | Web | Free | UI/UX |
-| **[Proto.io](https://proto.io/)** | Web | Subscription | UI/UX |
+| **[Mockup](https://getmockup.app/)** | macOS | Free | UI/UX |
+| **[Origami Studio 3](https://origami.design/)** | macOS | Free | UI/UX |
+| **[Justinmind](https://www.justinmind.com/)** | Windows, macOS | Free | UI/UX |
+| **[Figma](https://www.figma.com/)** | Web, Windows, macOS | Free | UI/UX |
+| **[Framer](https://www.framer.com/)** | Web, Windows, macOS | Free | UI/UX |
+| **[Webflow](https://webflow.com/?r=0)** | Web, Windows, macOS | Free | UI/UX |
 | **[Sketch](https://www.sketch.com/)** | macOS | Subscription | UI/UX |
+| **[Proto.io](https://proto.io/)** | Web | Subscription | UI/UX |
+| **Adobe XD** | Windows, macOS | Subscription | UI/UX |
 
 - *Free*: Has a no cost, professional and/or enterprise plans with a cost.
 - *Paid*: Single time payment.
@@ -156,17 +156,17 @@ Established coding languages, frameworks, patterns, models, programs and more ar
 
 | Name | Type | Features |
 | :--- | :--- | :--- |
-| **Hierarchical** | Non-Relational | Uses a tree-like structure to organize data. Each record has a single parent, and the relationships are a hierarchy. |
-| **Network** | Relational | Multiple relationships between records. The model uses a graph-like structure to connect records and enable complex relationships. |
-| **Cloud** | Non-Relational | Hosting solution given by a third-party provider. Offers database-as-a-service (DBaaS) to eliminate physical data center setups. |
-| **On-Premise** | Relational | All the software, infrastructure, and management are maintained locally. With large-scale enterprises, the storage grows to a local data center over time. |
-| **Centralized** | Relational | Stored and managed in a single physical location. The centralized repository is available to other devices through a network, which enables data sharing across an organization. |
-| **Distributed** | Non-Relational | Store information across different physical sites. |
-| **Operational** | Relational | An operational database manages and controls the basic operations within a business. It collects data directly from the source in real time, providing a view of daily transactions. |
 | **Analytical** | Relational | Analytical databases offer a unified view of all business data. Essential for planning, reporting, and making decisions (OLAP). |
-| **Graph** | Non-Relational | Optimized for managing relationships between data points. It structures data as nodes, edges, and properties. |
-| **Key-Value** | Non-Relational | An efficient database that stores data as key-value pairs. Every key is a unique identifier for a corresponding value. |
+| **Centralized** | Relational | Stored and managed in a single physical location. The centralized repository is available to other devices through a network, which enables data sharing across an organization. |
+| **Network** | Relational | Multiple relationships between records. The model uses a graph-like structure to connect records and enable complex relationships. |
+| **On-Premise** | Relational | All the software, infrastructure, and management are maintained locally. With large-scale enterprises, the storage grows to a local data center over time. |
+| **Operational** | Relational | An operational database manages and controls the basic operations within a business. It collects data directly from the source in real time, providing a view of daily transactions. |
+| **Cloud** | Non-Relational | Hosting solution given by a third-party provider. Offers database-as-a-service (DBaaS) to eliminate physical data center setups. |
+| **Distributed** | Non-Relational | Store information across different physical sites. |
 | **Document** | Non-Relational | Every document uses a format such as JSON or XML to represent data. Highly flexible and suitable for modern app development. |
+| **Graph** | Non-Relational | Optimized for managing relationships between data points. It structures data as nodes, edges, and properties. |
+| **Hierarchical** | Non-Relational | Uses a tree-like structure to organize data. Each record has a single parent, and the relationships are a hierarchy. |
+| **Key-Value** | Non-Relational | An efficient database that stores data as key-value pairs. Every key is a unique identifier for a corresponding value. |
 | **Time-Series** | Non-Relational | Works with timestamped data. Ideal for collecting and processing data over time, such as monitoring or scientific research. |
 
 - Relational: Organizes data into rows and columns (tables) that are linked by keys.
@@ -187,19 +187,19 @@ Established coding languages, frameworks, patterns, models, programs and more ar
 | Name | Relevance | Type |
 | :--- | :--- | :--- |
 | **Use Case** | High | Behavioral |
-| **Class** | High | Structural |
 | **Sequence** | High | Behavioral |
 | **Activity** | Medium | Behavioral |
 | **Communication** | Medium | Behavioral |
+| **Interaction Overview** | Medium | Behavioral |
 | **Timing** | Low | Behavioral |
 | **State Machine** | Low | Behavioral |
-| **Profile** | Low | Structural |
-| **Interaction Overview** | Medium | Behavioral |
+| **Class** | High | Structural |
 | **Component** | High | Structural |
 | **Composite Structure** | Medium | Structural |
-| **Deployment** | Low | Structural |
-| **Package** | Medium | Structural |
 | **Object** | Medium | Structural |
+| **Package** | Medium | Structural |
+| **Deployment** | Low | Structural |
+| **Profile** | Low | Structural |
 
 ### Programming Languages
 
