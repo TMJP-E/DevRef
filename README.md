@@ -124,6 +124,7 @@ Established coding languages, frameworks, patterns, models, programs and more ar
 | **[Fluig](https://www.fluig.cc/home)** | Web | Free | Modeling |
 | **[Whimsical](https://whimsical.com/)** | Web | Free | Modeling |
 | **[LucidChart](https://www.lucidchart.com/pages/es)** | Web | Free | Modeling |
+| **[dbdiagram.io](https://dbdiagram.io/home/)** | Web | Free | Modeling |
 | **[Miro](https://miro.com/)** | Web | Free | Modeling |
 | **[JetUML](https://www.jetuml.org/)** | Windows | Free | Modeling |
 | **[Modelio](https://www.modelio.org/index.htm)** | Linux, Windows | Free | Modeling |
@@ -193,6 +194,8 @@ Established coding languages, frameworks, patterns, models, programs and more ar
 | **Interaction Overview** | Medium | Behavioral |
 | **Timing** | Low | Behavioral |
 | **State Machine** | Low | Behavioral |
+| **Entity Relationship** | High | Database |
+| **Database Schema** | High | Database |
 | **Class** | High | Structural |
 | **Component** | High | Structural |
 | **Composite Structure** | Medium | Structural |
@@ -459,3 +462,5 @@ Established coding languages, frameworks, patterns, models, programs and more ar
 | **[Gitleaks](https://github.com/gitleaks/gitleaks)** | Lightweight tool used to detect and prevent hardcoded secrets like passwords and keys in Git repos. | Usage | Secrets Management |
 | **[Koyeb](https://www.koyeb.com/)** | Serverless platform that allows you to deploy Docker containers, web apps, and APIs. | Usage | Back-End Hosting, Containers, PaaS |
 | **[Aiven](https://aiven.io/)** | Open-source data platform providing databases like MySQL, PostgreSQL, and Redis | Usage | DB Provider, Managed Services |
+| **[FreeDB](https://www.freedb.tech/)** | Provides free remote MySQL database hosting specifically designed for students, developers, and hobbyist projects. | Usage | DB Provider |
+| **[Filess.io](https://filess.io/)** | Free MySQL, MariaDB, and PostgreSQL hosting with secure tunnels for local development. | Usage | DB Provider, Managed Services |
