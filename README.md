@@ -291,7 +291,7 @@ Established coding languages, frameworks, patterns, models, programs and more ar
 | **[ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/)** | C# | Web framework with various client and server side alternatives. | Full Stack | Server, Templates, Web App |
 | **[Blade](https://laravel.com/docs/blade)** | CSS, HTML, PHP | Templating engine for embedding PHP (Laravel). | Front-End | Templates |
 | **[Laravel](https://laravel.com/)** | HTML, PHP | MVC web framework. Provides a complete ecosystem for web development. | Back-End | Server |
-| **[Symfony](https://symfony.com/)** | PHP | Build scalable, high-performance web applications with reusable components. | Full Stack | Server, Web App
+| **[Symfony](https://symfony.com/)** | PHP | Build scalable, high-performance web applications with reusable components. | Full Stack | Server, Web App |
 | **[Livewire](https://livewire.laravel.com/)** | CSS, HTML, PHP | Dynamic reactivity web apps built on Blade and Laravel. | Full Stack | Server, Web App |
 | **[Inertia.js](https://inertiajs.com/)** | JavaScript, Multiple | Multi-platform hybrid SPAs bridging front end and back end. | Full Stack | Hybrid, Server, Web App |
 | **[Hotwire](https://hotwired.dev/)** | HTML, Ruby | SSR Web UI templating for SPA reactivity. | Front-End | Templates |
