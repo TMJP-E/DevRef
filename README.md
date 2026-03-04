@@ -120,22 +120,20 @@ Established coding languages, frameworks, patterns, models, programs and more ar
 
 | Name | Platform | Pricing | Usage |
 | :--- | :--- | :--- | :--- |
-| **[PlantUML](com/)** | Web | Free | Modeling |
+| **[PlantUML](https://plantuml.com/)** | Web | Free | Modeling |
 | **[Fluig](https://www.fluig.cc/home)** | Web | Free | Modeling |
 | **[Whimsical](https://whimsical.com/)** | Web | Free | Modeling |
 | **[LucidChart](https://www.lucidchart.com/pages/es)** | Web | Free | Modeling |
 | **[dbdiagram.io](https://dbdiagram.io/home/)** | Web | Free | Modeling |
 | **[Miro](https://miro.com/)** | Web | Free | Modeling |
-| **[JetUML](https://www.jetuml.org/)** | Windows | Free | Modeling |
-| **[Modelio](https://www.modelio.org/index.htm)** | Linux, Windows | Free | Modeling |
-| **[yEd](https://www.yworks.com/products/yed)** | Linux, Windows, macOS | Free | Modeling |
-| **[draw.io](https://draw.io)** | Linux, Web, Windows, macOS | Free | Modeling |
-| **[StarUML](https://staruml.io/)** | Windows, macOS | Paid | Modeling |
+| **[JetUML](https://www.jetuml.org/)** | Windows, macOS, Linux | Free | Modeling |
+| **[Modelio](https://www.modelio.org/index.htm)** | Windows, Linux | Free | Modeling |
+| **[yEd](https://www.yworks.com/products/yed)** | Web, Windows, macOS, Linux | Free | Modeling |
+| **[draw.io](https://draw.io)** | Web, Windows, macOS, Linux | Free | Modeling |
+| **[StarUML](https://staruml.io/)** | Windows, macOS, Linux | Paid | Modeling |
 | **[Astah](https://astah.net/downloads/)** | Windows, macOS, Linux | Paid | Modeling |
-| **[Balsamiq](https://balsamiq.com/)** | Web | Subscription | Modeling |
 | **[Penpot](https://penpot.app/)** | Web | Free | UI/UX |
 | **[Marvel](https://marvelapp.com/)** | Web | Free | UI/UX |
-| **[UXPin](https://www.uxpin.com/)** | Web | Free | UI/UX |
 | **[Flowmapp](https://www.flowmapp.com/)** | Web | Free | UI/UX |
 | **[VisualSitemaps](https://visualsitemaps.com/)** | Web | Free | UI/UX |
 | **[Axure](https://www.axure.com/)** | Web | Free | UI/UX |
@@ -145,6 +143,9 @@ Established coding languages, frameworks, patterns, models, programs and more ar
 | **[Figma](https://www.figma.com/)** | Web, Windows, macOS | Free | UI/UX |
 | **[Framer](https://www.framer.com/)** | Web, Windows, macOS | Free | UI/UX |
 | **[Webflow](https://webflow.com/?r=0)** | Web, Windows, macOS | Free | UI/UX |
+| **[Lunacy](https://icons8.com/lunacy)** | Web, Windows, macOS, Linux | Free | UI/UX |
+| **[UXPin](https://www.uxpin.com/)** | Web | Subscription | UI/UX |
+| **[Balsamiq](https://balsamiq.com/)** | Web | Subscription | UI/UX |
 | **[Sketch](https://www.sketch.com/)** | macOS | Subscription | UI/UX |
 | **[Proto.io](https://proto.io/)** | Web | Subscription | UI/UX |
 | **Adobe XD** | Windows, macOS | Subscription | UI/UX |
@@ -181,19 +182,20 @@ Established coding languages, frameworks, patterns, models, programs and more ar
 | Apple Human Interface Guidelines | Figma Design | Bootstrap 5 | Tailwind CSS | Uber Design |
 | Mailchimp Design | Salesforce Lightning Design | Helpscout Design | US Web Design System | Porsche Design System |
 | Gestalt (Pinterest) | Capital One | Intuit Design | Spectrum (Adobe) | AWS Amplify UI Kit |
-| Airtable Apps UI Kit | Ant Design | Chakra UI | Codex Design (Wikimedia) | Penpot Design System |
+| Airtable Apps UI Kit | Ant Design | Chakra UI | Codex Design (Wikimedia) | Penpot Design System (Pencil) |
 
-### UML Diagrams
+### [UML Diagrams](https://www.uml-diagrams.org/)
 
 | Name | Relevance | Type |
 | :--- | :--- | :--- |
 | **Use Case** | High | Behavioral |
 | **Sequence** | High | Behavioral |
 | **Activity** | Medium | Behavioral |
-| **Communication** | Medium | Behavioral |
+| **Communication \| Collaboration** | Medium | Behavioral |
 | **Interaction Overview** | Medium | Behavioral |
 | **Timing** | Low | Behavioral |
-| **State Machine** | Low | Behavioral |
+| **Information Flow** | Low | Behavioral |
+| **States** | Low | Behavioral |
 | **Entity Relationship** | High | Database |
 | **Database Schema** | High | Database |
 | **Class** | High | Structural |
@@ -400,7 +402,6 @@ Established coding languages, frameworks, patterns, models, programs and more ar
 | **[Google Cloud Platform (GCP)](https://cloud.google.com/)** | Offers scalable public cloud infrastructure and specialized services for data analytics and containerization. | Usage | Cloud Hosting, Containers, Data Analytics |
 | **[Microsoft Azure](https://azure.microsoft.com/)** | Provides cloud services built for enterprise, hybrid, and proprietary systems integration. | Usage | Cloud Hosting, Hybrid Hosting, IaaS |
 | **[DigitalOcean](https://www.digitalocean.com/)** | Provides virtual private servers (Droplets) and managed infrastructure with a focus on simplicity and ease of use. | Subscription | Deployment, Managed Services, VPS |
-| **[Linode (Akamai)](https://www.linode.com/)** | Offers high-performance Linux virtual machines (VMs) and supporting cloud infrastructure. | Subscription | VMs, VPS |
 | **[Vercel](https://vercel.com/)** | Offers high-performance Linux virtual machines (VMs) and supporting cloud infrastructure. | Usage | Front-End Hosting, Static Hosting |
 | **[Netlify](https://www.netlify.com/)** | A platform for static sites and serverless functions, featuring automatic build and deployment from Git. | Usage | Serverless Functions, Static Hosting |
 | **[GitHub Pages](https://pages.github.com/)** | A static site hosting service integrated directly with Git repositories for simple web publishing. | Subscription | Front-End Hosting, Static Hosting |
